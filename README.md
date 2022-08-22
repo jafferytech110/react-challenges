@@ -9,3 +9,7 @@ Display array of users to browser. a) Make a Users component and use that compon
 
 ## Task number 3
 Show and Hide Element on Screen with button click. Description: Create a clickable button and 200 by 200 px Box. When button is clicked show the box and when clicked again then hide the box. If box is shown the text on button should be "hide the box" if box is hidden then text on button should be "show the box"
+
+## Task number 4
+User input's to be displayed live as being typed. Description: Create input element. As user types in anything in input element, the output of user's input should be displayed in a div below input. Like Realtime output of input.
+
