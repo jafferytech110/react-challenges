@@ -18,3 +18,9 @@ Make button disable where there is no character in input field. Enable the butto
 
 ## Task number 6
 Create two components: once parent component and one child component. Change the content or text of Parent component by a button inside child component. Child component should be called inside parent component. <App /> can be used as parent component if required.
+
+## Task number 7
+Pass Child component as children of Parent Component. 
+
+## Task number 8
+Take two numbers as input and add them and show result on button click.
