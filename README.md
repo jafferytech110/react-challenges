@@ -27,3 +27,6 @@ Take two numbers as input and add them and show result on button click.
 
 ## Task number 9
 Create increment and decrement counter
+
+## Task number 10
+fetch data from API https://jsonplaceholder.typicode.com/users/1 and display data in browser. you can use fetch or axios with async await or thenables.
