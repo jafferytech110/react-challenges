@@ -13,3 +13,5 @@ Show and Hide Element on Screen with button click. Description: Create a clickab
 ## Task number 4
 User input's to be displayed live as being typed. Description: Create input element. As user types in anything in input element, the output of user's input should be displayed in a div below input. Like Realtime output of input.
 
+## Task number 5
+Make button disable where there is no character in input field. Enable the button when there is at least one character.
