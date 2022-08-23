@@ -24,3 +24,6 @@ Pass Child component as children of Parent Component.
 
 ## Task number 8
 Take two numbers as input and add them and show result on button click.
+
+## Task number 9
+Create increment and decrement counter
