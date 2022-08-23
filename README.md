@@ -15,3 +15,6 @@ User input's to be displayed live as being typed. Description: Create input elem
 
 ## Task number 5
 Make button disable where there is no character in input field. Enable the button when there is at least one character.
+
+## Task number 6
+Create two components: once parent component and one child component. Change the content or text of Parent component by a button inside child component. Child component should be called inside parent component. <App /> can be used as parent component if required.
