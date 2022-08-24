@@ -49,3 +49,7 @@ Design the following user card
 
 ![sample image](./task-13/user_card_design_jsx.png)
 
+## Task number 14
+In the design below, evens are green, odds are yellow and prime numbers are red. Build the following colors using react components and props drilling. Colors can be of your choice as well.
+
+![sample image](./task-14/day_6_number_generater_exercise.png)
