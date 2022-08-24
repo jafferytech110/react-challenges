@@ -30,3 +30,10 @@ Create increment and decrement counter
 
 ## Task number 10
 fetch data from API https://jsonplaceholder.typicode.com/users/1 and display data in browser. you can use fetch or axios with async await or thenables.
+
+
+## ***************************LEVEL INCREASES********************************
+
+## Task number 11
+Import and render the following images 
+![sample image](./task-11/images/frontend_technologies.png)
