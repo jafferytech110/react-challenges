@@ -53,3 +53,22 @@ Design the following user card
 In the design below, evens are green, odds are yellow and prime numbers are red. Build the following colors using react components and props drilling. Colors can be of your choice as well.
 
 ![sample image](./task-14/day_6_number_generater_exercise.png)
+
+## Task number 15
+Make the following bar group using the given data 
+const tenHighestPopulation = [
+  { country: 'World', population: 7693165599 },
+  { country: 'China', population: 1377422166 },
+  { country: 'India', population: 1295210000 },
+  { country: 'United States of America', population: 323947000 },
+  { country: 'Indonesia', population: 258705000 },
+  { country: 'Brazil', population: 206135893 },
+  { country: 'Pakistan', population: 194125062 },
+  { country: 'Nigeria', population: 186988000 },
+  { country: 'Bangladesh', population: 161006790 },
+  { country: 'Russian Federation', population: 146599183 },
+  { country: 'Japan', population: 126960000 },
+]
+
+![sample image](./task-15//day_6_ten_highest_populations_exercise.png)
+
