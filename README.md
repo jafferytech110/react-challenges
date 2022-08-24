@@ -36,4 +36,4 @@ fetch data from API https://jsonplaceholder.typicode.com/users/1 and display dat
 
 ## Task number 11
 Import and render the following images 
-![sample image](./task-11/images/frontend_technologies.png)
+![sample image](./task-11/src/images/frontend_technologies.png)
