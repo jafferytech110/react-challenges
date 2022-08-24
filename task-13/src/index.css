@@ -1,0 +1,52 @@
+body{
+  width: 100%;
+  font-family: "Calibri", Times, serif;
+  overflow-x: hidden;
+}
+
+#root{
+  width: 100%;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 2rem auto;
+}
+
+main h1{
+  font-weight: normal;
+}
+
+main p{
+  font-size: 1.5rem;
+  font-weight: light;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+h2{
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.skills{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.skills .skill{
+  background-color: #2ACFCF;
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  font-weight:600;
+}
