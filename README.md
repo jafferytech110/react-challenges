@@ -37,3 +37,7 @@ fetch data from API https://jsonplaceholder.typicode.com/users/1 and display dat
 ## Task number 11
 Import and render the following images 
 ![sample image](./task-11/images/frontend_technologies.png)
+
+## Task number 12
+Use h1, h3, input and button HTML elements to create the following design using JSX. you may use components and improvise and add features as you like as long as the output looks alike
+![sample image](./task-12/news_letter_design.png)
