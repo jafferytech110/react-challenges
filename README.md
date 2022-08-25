@@ -72,3 +72,8 @@ const tenHighestPopulation = [
 
 ![sample image](./task-15//day_6_ten_highest_populations_exercise.png)
 
+## Task number 16
+Use React State to change the background of the page and font color. Can be used to apply dark mode on the page
+
+![sample image](./task-16/08_day_changing_background_exercise.gif)
+
