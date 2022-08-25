@@ -77,3 +77,8 @@ Use React State to change the background of the page and font color. Can be used
 
 ![sample image](./task-16/08_day_changing_background_exercise.gif)
 
+## Task number 17
+Dare to travel random! Use the given countries.js file for data, change the country flag and facts on button click. At best make a card in the middle of the page with button. as show in the below image.
+
+![sample image](./task-17/08_day_select_country_exercise.gif)
+
