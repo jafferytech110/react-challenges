@@ -82,3 +82,5 @@ Dare to travel random! Use the given countries.js file for data, change the coun
 
 ![sample image](./task-17/08_day_select_country_exercise.gif)
 
+## Task number 18
+Fetch data and set loading component to show as long data loads.
