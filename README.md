@@ -84,3 +84,7 @@ Dare to travel random! Use the given countries.js file for data, change the coun
 
 ## Task number 18
 Fetch data and set loading component to show as long data loads.
+
+## Task number 19
+Build a simple portfolio website with light and dark mode. You can choose anyone's portfolio website or can come up with your own idea but it should be simple because we still need to learn more skills to develop full high scale website.
+

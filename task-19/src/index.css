@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&display=swap');
+*{
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  font-family: cursive;
+}
+
+#root{
+  display: 100%;
+}
+
+div.dark-mode{
+  background-color: #191924;
+  color: #fff;
+  width: 100%;
+  padding: 0 10%;
+}
+
+div.light-mode{
+  background-color: #9dcae4;
+  color: #000;
+  width: 100%;
+  padding: 0 10%;
+}
+
+div.header-line{
+  height: 10px;
+  width: 100%;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(95,9,121,1) 44%, rgba(0,212,255,1) 100%);
+}
+header{
+  padding: 2rem 0;
+}
+
+nav{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+header nav .header-profile{
+  width: 50px;
+  height: 50px;
+}
+header nav .header-profile img{
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+header nav div.dark-mode{
+  width: 25px;
+  height: 25px;
+  background-color: rgb(255, 217, 5);
+  padding: 0;
+  margin: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+header nav div.light-mode{
+  width: 25px;
+  height: 25px;
+  background-color: #191924;
+  padding: 0;
+  margin: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+header nav ul{
+  display: flex;
+  gap: 2rem;
+}
+
+header nav ul li{
+  list-style: none;
+}
+
+/* header nav ul li:nth-child(1){
+  color: #00d4ff;
+} */
+
+
+
+main{
+  font-family: 'Qwitcher Grypen', cursive;
+  margin-top: 5rem;
+  display: flex;
+  flex-direction: column;
+  margin: 5rem 30%;
+  margin-bottom: 0;
+  gap: 2rem;
+}
+
+main h1{
+  font-size: 5rem;
+  color: rgb(255, 217, 5);
+}
+
+main h2{
+  font-size: 4rem;
+  color: rgb(255, 217, 5);
+}
+
+main p{
+  font-size: 2rem;
+  color: #EB62D9;
+}
+
+main div.work h3{
+  color: rgb(255, 217, 5);
+  font-size: 2rem;
+  margin: 2rem 0;
+}
+
+main div.work ul{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10rem;
+}
+
+main div.work ul li {
+  display: flex;
+  justify-content: space-between;
+}
+
+main div.work ul li p:nth-child(odd){
+  color: inherit;
+}
+
