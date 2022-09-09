@@ -89,10 +89,13 @@ Fetch data and set loading component to show as long data loads.
 Build a simple portfolio website with light and dark mode. You can choose anyone's portfolio website or can come up with your own idea but it should be simple because we still need to learn more skills to develop full high scale website.
 
 ## Task number 20
-Build a form like in the picture below and use validator.js to validate data at frontend. 
+Build a form like in the picture below. Form should be validated on client's end without using any library. 
 i. Fullname cannot be less than 3 character
 ii. Email Address should be valid
 iii. Password length must be greater than 8 digits
 iv. Card number should be greater than 10 digit
 
 ![sample image](./task-20/form-2021.png)
+
+## Task number 21 
+Redo Task 20 but this time with any library such as Axios or Validator. The validation points stay as described in task 20.
