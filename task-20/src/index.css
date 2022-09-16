@@ -233,3 +233,7 @@ button:hover{
 input, label{
     cursor: pointer;
 }
+
+p{
+    color: red;
+}
