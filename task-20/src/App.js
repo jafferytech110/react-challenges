@@ -12,7 +12,7 @@ function App() {
   }
   return (
   <>
-    {isSubmitted ? 'Thank you for submitting the form' : <Signup />}
+    {isSubmitted ? 'Thank you for submitting the form' : <Signup submitForm={submitForm} />}
   </>
   );
 }

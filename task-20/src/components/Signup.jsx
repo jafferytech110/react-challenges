@@ -9,9 +9,9 @@ import validate from './ValidateInfo'
 
 import useForm from './useForm'
 
-const Signup = () => {
+const Signup = ({submitForm}) => {
 
-    const {handleChange, values, handleSubmit, errors} = useForm(validate)
+    const {handleChange, values, handleSubmit, errors} = useForm(validate, submitForm)
 
   return (
     <>
