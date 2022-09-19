@@ -98,4 +98,4 @@ iv. Card number should be greater than 10 digit
 ![sample image](./task-20/form-2021.png)
 
 ## Task number 21 
-Redo Task 20 but this time with any library such as Axios or Validator. The validation points stay as described in task 20.
+Redo Task 20 but using useRef and without validation. Just get the input values and display on console without re rendering (which occurs due to useState hook)
