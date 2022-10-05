@@ -1,0 +1,91 @@
+.fbForm{
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    gap: 1rem;
+    width: 400px;
+}
+
+input{
+    padding: 1rem;
+    border: 1px solid #dddfe2;
+    color: #1d2129;
+    font-size: 1rem;
+    border-radius: 6px;
+}
+
+button#login{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    color: #FFFFFF;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+button#forgot{
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.line{
+    border: 1px solid #dddfe2;
+}
+
+#signUp{
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    background-color: #42b72a;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    font-weight: bold;
+    justify-content: center;
+    position: relative;
+    text-align: center;
+    text-shadow: none;
+    vertical-align: middle;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 200px;
+    margin: 1rem auto;
+}
+
+p.page{
+    font-size: 14px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+p.page a {
+    font-weight: bold;
+    color: #000;
+}
+
+p.page a:hover{
+    text-decoration: underline;
+}
