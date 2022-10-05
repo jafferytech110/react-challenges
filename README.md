@@ -99,3 +99,9 @@ iv. Card number should be greater than 10 digit
 
 ## Task number 21 
 Redo Task 20 but using useRef and without validation. Just get the input values and display on console without re rendering (which occurs due to useState hook)
+
+## Task number 22
+Build facebook sign up clone page and add css modules files next to each component.
+
+![sample image](./task-22/facebook.JPG)
+
