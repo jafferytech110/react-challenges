@@ -105,3 +105,10 @@ Build facebook sign up clone page and add css modules files next to each compone
 
 ![sample image](./task-22/facebook.JPG)
 
+## Task number 23
+Axios is a JavaScript library which can make HTTP requests to fetch data. Use axios to fetch data from https://jsonplaceholder.typicode.com/ and perform GET POST PUT and DELETE operations using AXIOS. CRUD!
+
+## Task number 24
+Built News Website using class components instead of functional components. Use any free news API to fetch updated news and improvise to make the best news website possible. Get ideas from BBC news or any other news channel of your choice.
+
+
