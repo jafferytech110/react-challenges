@@ -111,4 +111,7 @@ Axios is a JavaScript library which can make HTTP requests to fetch data. Use ax
 ## Task number 24
 Built News Website using class components instead of functional components. Use any free news API to fetch updated news and improvise to make the best news website possible. Get ideas from BBC news or any other news channel of your choice.
 
+## Task number 25 
+Learn about state management in React and implement Redux state management in a short project
+
 
