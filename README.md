@@ -114,4 +114,8 @@ Built News Website using class components instead of functional components. Use 
 ## Task number 25 
 Learn about state management in React and implement Redux state management in a short project
 
+## Task number 26
+implement different state management techniques in REact. UseState, useReducer, useMemo & useCallback, useEffect, useRef, context and custom hooks, REact query and react locatio, zustand, valtio, Redux-
+
+
 
